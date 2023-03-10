@@ -193,3 +193,7 @@ go run main.go
 
 
 
+### 七、项目演示视频
+
+https://zxy-image-1312424939.cos.ap-chongqing.myqcloud.com/image%2FGitHub%2Fdousheng.mp4
+
